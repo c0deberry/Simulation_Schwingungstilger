@@ -1,4 +1,4 @@
-%% Draw black line across minimum values in 3d
+%% Serch optimum with fminsearch
 clear, close all;
 
 %% Gegebene Werte
